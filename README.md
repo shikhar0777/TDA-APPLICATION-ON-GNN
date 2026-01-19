@@ -10,5 +10,5 @@ In recent years, topological data analysis (TDA) techniques, such as persistent 
 
 
 Applying TDA Techniques to GNNs for Cyber Threat Detection. Ashlea Krasnansky & Shikhar Pandey, West Virginia State University, Institute, WV, 25112.
-Cybersecurity Innovation
+Cybersecurity Innovation Center
 
